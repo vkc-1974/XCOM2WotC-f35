@@ -1,0 +1,4 @@
+GLIBC_PRIVATE {
+global:
+    *;
+};
